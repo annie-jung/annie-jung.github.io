@@ -1,14 +1,4 @@
-# Test
-테스트 마크다운 파일
-
-- 테스트1
-- 테스트2
-- 테스트3
-  - 테스트4
-  - 테스트5
-  - 테스트6
-    - 테스트7
-    - 테스트8
-    - [테스트9](http://www.google.com/)
-
-
+Hello, I am Yeongin Jung. 
+I graduated from Pusan National University, College of Medicine. I am currently working in VSline clinic in Seoul, South Korea. 
+I am interested in Medicine and Data science. 
+Besides academic matters, I love musicals(Both seeing and performing), jogging, and hiking. 
