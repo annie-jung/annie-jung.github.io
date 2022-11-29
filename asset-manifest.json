@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.efec6d0f.css",
-    "main.js": "/static/js/main.f7c2a7c7.js",
+    "main.css": "/static/css/main.07b9532c.css",
+    "main.js": "/static/js/main.9f9a2f59.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/profile_thumb.png": "/static/media/profile_thumb.52b5ef8134d7328d4247.png",
     "static/media/profile.jpeg": "/static/media/profile.42fd0b2b4f03d48d91f2.jpeg",
@@ -13,16 +13,17 @@
     "static/media/service.md": "/static/media/service.44cc9d75fa150e345053.md",
     "index.html": "/index.html",
     "static/media/backgorund.md": "/static/media/backgorund.11ad188a1375521004af.md",
-    "static/media/home.md": "/static/media/home.ac174cb6654c2dfa98ea.md",
-    "static/media/instagram.txt": "/static/media/instagram.5e270433f4a8b649d760.txt",
-    "static/media/cv.txt": "/static/media/cv.7dfcc958bb9c5be3fad3.txt",
+    "static/media/home.md": "/static/media/home.c5a06a338e5db0de84f6.md",
+    "static/media/profile.md": "/static/media/profile.7f3f1a2b331c62b19906.md",
+    "static/media/cv.txt": "/static/media/cv.ebe9f7a38da4c52ec108.txt",
+    "static/media/instagram.txt": "/static/media/instagram.efcfc566bbf593211614.txt",
     "static/media/email.txt": "/static/media/email.5387c21fb659c237ef59.txt",
-    "main.efec6d0f.css.map": "/static/css/main.efec6d0f.css.map",
-    "main.f7c2a7c7.js.map": "/static/js/main.f7c2a7c7.js.map",
+    "main.07b9532c.css.map": "/static/css/main.07b9532c.css.map",
+    "main.9f9a2f59.js.map": "/static/js/main.9f9a2f59.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efec6d0f.css",
-    "static/js/main.f7c2a7c7.js"
+    "static/css/main.07b9532c.css",
+    "static/js/main.9f9a2f59.js"
   ]
 }
