@@ -11,4 +11,4 @@
 # Passion in music
 - 2018, [PNU College of Medicine and Nursing Musical Club](https://www.youtube.com/watch?v=rUB2fxYVbFU)
 - 2017, [Musical Grease](https://drive.google.com/drive/folders/1_eLvy0lkgdBDda_earE1aVInkKAkkY9k?usp=share_link), role of Marty, Musical Association of Pusan
-- 2016-2018, [Acoustic Guitar and Ensemble Club annual concert](https://drive.google.com/drive/folders/1hGBblGxPbmc7QC-OhfAyjZ3GD1onRkgA?usp=share_link)
+- 2016-2018, [Acoustic Guitar and Ensemble Club annual concert](https://drive.google.com/drive/folders/1hGBblGxPbmc7QC-OhfAyjZ3GD1onRkgA?usp=share_link), Pusan National University College of Medicine
