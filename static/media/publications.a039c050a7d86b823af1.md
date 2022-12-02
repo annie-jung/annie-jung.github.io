@@ -1,5 +1,4 @@
 # Publications
-Pharetra sit amet aliquam id diam maecenas ultricies mi.
 
 ## <time>2022</time>
 - Yeongin Jung, Kihun Kim, Sang Tae Choi, Jin Mo Kang, Noo Ree Cho, Dai Sik Ko & Yun Hak Kim, Association between surgeon age and postoperative complications/mortality: a systemiatic review and meta-analysis of cohort studies, 2022, Nature Portfolio scientific reports
