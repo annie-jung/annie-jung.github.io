@@ -9,4 +9,4 @@
 # Research Experience
 - 2021, Biomedical Informatics lab, Advisor : Yunhak Kim(MD, phD)
 - 2017, Development of a pre-examination application using Android Studio, Advisor : Byung Kwan Choi(MD, neurosurgeon, Head of Medical informatics center, Pusan National University Hospital) 
-- 2016, Korea Institute of Science and Technology research camp, Medical IT lab
+- 2016, [Korea Institute of Science and Technology research camp](https://drive.google.com/file/d/1xYbXjUBvmvveNDWnyKlGAZAuEQtEngwd/view?usp=sharing), Medical IT lab
