@@ -1,12 +1,12 @@
 # Education
-- MD., College of Medicine, Pusan National University![image](https://user-images.githubusercontent.com/114845793/205221309-34147bb1-fee7-4dd6-92be-30634159cd80.png)
-.<small>09/2018–Current</small>
-  - Pharetra sit amet aliquam id diam maecenas ultricies mi.
-  - Pharetra sit amet aliquam id diam maecenas ultricies mi.
-- Pharetra sit amet aliquam id diam maecenas ultricies mi.
+- MD., College of Medicine, Pusan National University.<small>03/2016-02/2022</small>
+- Seoul National University, Department of Chemistry.<small>03/2014-02/2016</small>
+- Korea Science Academy of KAIST.<small>02/2011-02/2014</small>
+
 
 <br/> 
 
 # Research Experience
-- Pharetra sit amet aliquam id diam maecenas ultricies mi.
-  - Pharetra sit amet aliquam id diam maecenas ultricies mi.
+- 2021, Biomedical Informatics lab, Advisor : Yunhak Kim(MD, phD)
+- 2017, Development of a pre-examination application using Android Studio, Advisor : Byung Kwan Choi(MD, neurosurgeon, Head of Medical informatics center, Pusan National University Hospital) 
+- 2016, Korea Institute of Science and Technology research camp, Medical IT lab
