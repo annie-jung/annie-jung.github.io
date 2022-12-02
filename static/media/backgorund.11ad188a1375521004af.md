@@ -10,3 +10,7 @@
 - 2021, Biomedical Informatics lab, Advisor : Yunhak Kim(MD, phD)
 - 2017, [Development of a pre-examination application using Android Studio](https://drive.google.com/file/d/17zk4w10e8RZbcXerHXczo5y42bW_SX59/view?usp=sharing), Advisor : Byung Kwan Choi(MD, neurosurgeon, Head of Medical informatics center, Pusan National University Hospital) 
 - 2016, [Korea Institute of Science and Technology research camp](https://drive.google.com/file/d/1xYbXjUBvmvveNDWnyKlGAZAuEQtEngwd/view?usp=sharing), Medical IT lab
+
+
+# Award
+- [The Highest Excellence Award of Personal Branding Competition](https://drive.google.com/drive/folders/1914eJB9MT7ga1YLJB5asLpC7opI9L2AS?usp=share_link), 2017
