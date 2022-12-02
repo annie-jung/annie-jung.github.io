@@ -14,3 +14,7 @@
 # Activities
 - [PNU College of Medicine and Nursing Musical Club](https://www.youtube.com/watch?v=rUB2fxYVbFU), 2018
 - Pharetra sit amet aliquam id diam maecenas ultricies mi.
+
+# Subintership
+- 2021 summer, Samsung medical center
+- 2017 winter, Pusan National University Hospital Trauma Center
