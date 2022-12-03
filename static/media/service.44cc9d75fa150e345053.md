@@ -4,5 +4,5 @@
 - 2020, COVID-19 self-quarantine center management, Haeundae-gu volunteer center, Pusan, Republic of Korea
 - 2020-2021, Daily necessities and emergency kit donation, UN peace program, Korean University Culture Organization
 - 2018, High school student mentorship, College of Medicine Summer Camp
-- 2017, [Translation for foreign tourists](), Gamchun cultural village, Pusan, Republic of Korea
+- 2017, [Translation for foreign tourists](https://instagram.com/biaa_gamcheon?igshid=YTY2NzY3YTc=), Gamchun cultural village, Pusan, Republic of Korea
 - 2016-2019, Daily living assistance, Sinmangae Nursing home: dementia care center, Pusan, Republic of Korea
