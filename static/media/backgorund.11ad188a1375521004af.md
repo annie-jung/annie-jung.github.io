@@ -14,3 +14,6 @@
 # Subintership
 - 2021 summer, Samsung medical center
 - 2017 winter, Pusan National University Hospital Trauma Center
+
+# Award
+- [The Highest Excellence Award of Personal Branding Competition](https://drive.google.com/drive/folders/1914eJB9MT7ga1YLJB5asLpC7opI9L2AS?usp=share_link), 2017
