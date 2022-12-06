@@ -6,4 +6,4 @@
 - 2018, High school student mentorship, College of Medicine Summer Camp
 - 2017, [Translation for foreign tourists](https://instagram.com/biaa_gamcheon?igshid=YTY2NzY3YTc=), Gamchun cultural village, Pusan, Republic of Korea
 - 2016-2019, Daily living assistance, Sinmangae Nursing home: dementia care center, Pusan, Republic of Korea
-- 2011, Education and House building service, Mongolia
+- 2011, [Education and House building service](https://drive.google.com/drive/folders/1NiXp7AQacNq2qu2AibKmQPMAtUI7Sff8?usp=share_link), Mongolia
