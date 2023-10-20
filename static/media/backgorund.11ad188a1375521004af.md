@@ -1,4 +1,5 @@
 # Education
+- MHS, Health Economics and Outcomes Research, Johns Hopkins Bloomberg School of Public Health
 - MD., College of Medicine, Pusan National University.<small>03/2016-02/2022</small>
 - Seoul National University, Department of Chemistry.<small>03/2014-02/2016</small>
 - Korea Science Academy of KAIST.<small>02/2011-02/2014</small>
